@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Dinesh 👋
 
-<!--
-**dineshhr-des/dineshhr-des** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc Computer Science Student
 
-Here are some ideas to get you started:
+💻 Skills
+- Python
+- HTML
+- CSS
+- UI/UX Design
+- Figma
+- MS Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently Learning
+- Python
+- UI/UX Design
+- Web Development
+
+📫 Contact
+- Email: rdineshh2310@gmail.com
+- LinkedIn: linkedin.com/in/dinesh-r-6b4b893a9
